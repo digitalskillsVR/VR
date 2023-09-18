@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<order>
+		<components>
+			<CPU>6-core</CPU>
+			<GPU>gaming</GPU>
+			<RAM>32</RAM>
+			<storage>512GB HDD</storage>
+			<PSU>1000W</PSU>
+			<cooler>middle</cooler>
+		</components>
+		<budget>1170</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>24-core</CPU>
+			<GPU>gaming</GPU>
+			<RAM>32</RAM>
+			<storage>1024GB SSD</storage>
+			<PSU>500W</PSU>
+			<cooler>big</cooler>
+		</components>
+		<budget>1340</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>24-core</CPU>
+			<GPU>budget</GPU>
+			<RAM>32</RAM>
+			<storage>1024GB SSD</storage>
+			<PSU>750W</PSU>
+			<cooler>middle</cooler>
+		</components>
+		<budget>655</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>16-core</CPU>
+			<GPU>gaming</GPU>
+			<RAM>16</RAM>
+			<storage>512GB SSD</storage>
+			<PSU>1000W</PSU>
+			<cooler>middle</cooler>
+		</components>
+		<budget>1145</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>24-core</CPU>
+			<GPU>middle</GPU>
+			<RAM>32</RAM>
+			<storage>512GB HDD</storage>
+			<PSU>750W</PSU>
+			<cooler>big</cooler>
+		</components>
+		<budget>880</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>16-core</CPU>
+			<GPU>budget</GPU>
+			<RAM>32</RAM>
+			<storage>512GB HDD</storage>
+			<PSU>750W</PSU>
+			<cooler>small</cooler>
+		</components>
+		<budget>665</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>6-core</CPU>
+			<GPU>gaming</GPU>
+			<RAM>64</RAM>
+			<storage>1024GB SSD</storage>
+			<PSU>750W</PSU>
+			<cooler>big</cooler>
+		</components>
+		<budget>1215</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>16-core</CPU>
+			<GPU>middle</GPU>
+			<RAM>64</RAM>
+			<storage>512GB HDD</storage>
+			<PSU>500W</PSU>
+			<cooler>middle</cooler>
+		</components>
+		<budget>760</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>16-core</CPU>
+			<GPU>gaming</GPU>
+			<RAM>16</RAM>
+			<storage>512GB SSD</storage>
+			<PSU>1000W</PSU>
+			<cooler>big</cooler>
+		</components>
+		<budget>1150</budget>
+	</order>
+	<order>
+		<components>
+			<CPU>6-core</CPU>
+			<GPU>middle</GPU>
+			<RAM>16</RAM>
+			<storage>1024GB HDD</storage>
+			<PSU>1000W</PSU>
+			<cooler>middle</cooler>
+		</components>
+		<budget>845</budget>
+	</order>
+</orders>
